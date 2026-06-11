@@ -40,6 +40,26 @@ A real-time **AI-powered Hand Gesture Recognition Game** built using **Python, O
 
 ---
 
+## 📸 Project Screenshots
+
+### Main Interface
+![Main Interface](screenshots/MAIN%20INTERFACE.png)
+
+### Game Win Screen
+![AI Win](screenshots/AI%20WIN.jpeg)
+
+### Draw Result
+![Draw](screenshots/Draw.jpeg)
+
+### Invalid Move Detection
+![Invalid Move](screenshots/INVALID%20MOVE.png)
+
+### Code Window
+![Code Window](screenshots/Code%20window.png)
+
+### Player Win
+![Player Win](screenshots/Player%20Win.jpeg)
+
 ## 📂 Project Structure
 
 ```bash
